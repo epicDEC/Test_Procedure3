@@ -1,0 +1,82 @@
+Procedura: Obsługa zgłoszenia serwisowego
+1. Cel procedury
+Zapewnienie jednolitego i skutecznego sposobu przyjmowania, analizowania oraz realizacji zgłoszeń serwisowych od klientów.
+
+2. Zakres
+Procedura dotyczy wszystkich pracowników działu serwisu oraz osób odpowiedzialnych za kontakt z klientem.
+
+3. Definicje
+Zgłoszenie serwisowe – informacja od klienta dotycząca awarii, usterki lub potrzeby wsparcia technicznego.
+
+SLA – czas reakcji i rozwiązania zgłoszenia określony w umowie.
+
+4. Odpowiedzialności
+Konsultant pierwszej linii – przyjmuje zgłoszenie, weryfikuje dane, klasyfikuje priorytet.
+
+Technik serwisowy – diagnozuje i usuwa usterkę.
+
+Koordynator serwisu – nadzoruje realizację zgłoszeń i zgodność z SLA.
+
+5. Przebieg procesu
+5.1. Przyjęcie zgłoszenia
+Konsultant odbiera zgłoszenie (telefon, e-mail, formularz).
+
+Zapisuje je w systemie serwisowym wraz z:
+
+danymi klienta,
+
+opisem problemu,
+
+datą i godziną zgłoszenia,
+
+załącznikami (zdjęcia, logi).
+
+Konsultant nadaje priorytet zgodnie z tabelą:
+
+Priorytet	Opis	Czas reakcji
+Krytyczny	Awaria uniemożliwia pracę	2h
+Wysoki	Problem znacząco utrudnia pracę	4h
+Normalny	Standardowe zgłoszenie	24h
+Niski	Zapytanie lub drobna usterka	48h
+
+
+5.2. Diagnoza
+Technik analizuje zgłoszenie i kontaktuje się z klientem, jeśli potrzebne są dodatkowe informacje.
+
+Technik określa:
+
+prawdopodobną przyczynę,
+
+wymagane działania,
+
+przewidywany czas naprawy.
+
+5.3. Realizacja
+Technik wykonuje działania naprawcze:
+
+zdalnie lub
+
+na miejscu u klienta.
+
+W przypadku braku możliwości natychmiastowej naprawy technik informuje koordynatora i klienta o dalszych krokach.
+
+5.4. Zakończenie zgłoszenia
+Technik dokumentuje wykonane czynności w systemie.
+
+Konsultant kontaktuje się z klientem w celu potwierdzenia rozwiązania problemu.
+
+Zgłoszenie zostaje zamknięte po akceptacji klienta.
+
+6. Dokumentacja
+System zgłoszeń serwisowych
+
+Raporty miesięczne SLA
+
+Historia kontaktu z klientem
+
+7. Załączniki
+Formularz przyjęcia zgłoszenia
+
+Instrukcja klasyfikacji priorytetów
+
+Lista kontaktowa techników
